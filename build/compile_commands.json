@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/asus/Desktop/Song X-lab/SongChenghao_hw1/build",
+  "command": "E:\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\algebra.obj -c \"C:\\Users\\asus\\Desktop\\Song X-lab\\SongChenghao_hw1\\src\\algebra.c\"",
+  "file": "C:/Users/asus/Desktop/Song X-lab/SongChenghao_hw1/src/algebra.c",
+  "output": "CMakeFiles/main.dir/src/algebra.obj"
+},
+{
+  "directory": "C:/Users/asus/Desktop/Song X-lab/SongChenghao_hw1/build",
+  "command": "E:\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\main.obj -c \"C:\\Users\\asus\\Desktop\\Song X-lab\\SongChenghao_hw1\\src\\main.c\"",
+  "file": "C:/Users/asus/Desktop/Song X-lab/SongChenghao_hw1/src/main.c",
+  "output": "CMakeFiles/main.dir/src/main.obj"
+}
+]

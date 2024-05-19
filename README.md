@@ -1,3 +1,44 @@
+<!--
+ * @Author: RongAn 2548505257@qq.com
+ * @Date: 2024-05-17 22:40:11
+ * @LastEditors: RongAn 2548505257@qq.com
+ * @LastEditTime: 2024-05-18 13:03:25
+ * @FilePath: \SongChenghao_hw1\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
+# 宋成毫的思路
+最难的部分在于矩阵求逆、行列式、秩三个部分的编程，以我的水平实在难以实现，故借助了AI；
+最有意思的部分还是学习git的操作和搭建工程文件，因为这对于我来说是全新的体验
+## git的学习
+主要是跟着小破站上的狂神说来学习，比较轻松
+## 搭建工程文件
+一开始忘记了工程文件的模板（内训没回放啊啊啊啊）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # algebra
 硬件技术团队编程基础作业
 ## 预修要求｜Requirements
